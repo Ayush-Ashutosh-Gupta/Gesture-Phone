@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GesturePhone</string>
+    <string name="accessibility_service_description">Enables GesturePhone to control your device using hand gestures, including touch clicks, scrolling, navigation (Home, Back, Recents), and volume control even when the app is in the background.</string>
+</resources>

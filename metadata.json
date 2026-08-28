@@ -1,0 +1,6 @@
+{
+  "name": "GesturePhone",
+  "description": "Control your phone with your hands. Real-time on-device MediaPipe hand tracking for touchless gesture controls, cursor navigation, volume adjustment, and custom gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
