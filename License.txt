@@ -1,0 +1,45 @@
+Copyright © 2026 Ayush Ashutosh Gupta
+All Rights Reserved.
+
+1. Ownership
+This repository, including but not limited to all source code, object code, designs, assets, text, documentation, prompts, models, configurations, structure, and any other materials contained herein (collectively, the "Work"), is and shall remain the exclusive intellectual property of Ayush Ashutosh Gupta (the "Owner").
+
+2. No License Granted
+Except for the limited right to view the Work on GitHub for personal evaluation or portfolio inspection, no license, permission, or right is granted to any person or entity.
+
+Without explicit prior written permission from the Owner, no person or entity may:
+
+- copy, reproduce, or redistribute the Work
+- modify, adapt, translate, or create derivative works from the Work
+- merge the Work into other software or projects
+- publish, mirror, sublicense, sell, rent, lease, or otherwise commercially exploit the Work
+- use the Work, in whole or in part, for any commercial, academic, research, training, production, or public-facing purpose
+- use the Work to train, fine-tune, evaluate, or improve any machine learning or artificial intelligence system
+- remove, obscure, or alter any proprietary notices
+
+3. Portfolio / Demonstration Purpose Only
+The Work is published solely for portfolio, demonstration, and personal showcase purposes. Public visibility does not constitute open-source licensing, abandonment of rights, or implied consent for reuse.
+
+4. Reservation of Rights
+All rights not expressly granted in writing by the Owner are strictly reserved. This includes all rights under copyright, patent, trademark, trade secret, and any other applicable intellectual property laws, whether now existing or arising in the future.
+
+5. Unauthorized Use
+Any unauthorized use, reproduction, distribution, or modification of the Work is strictly prohibited and may result in civil and/or criminal liability to the maximum extent permitted by applicable law.
+
+6. Termination of Access Expectations
+The Owner reserves the right to modify, restrict, privatize, or remove the Work at any time. Continued public availability does not expand or create any rights for third parties.
+
+7. No Warranty
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OF OR OTHER DEALINGS IN THE WORK.
+
+9. Governing Law
+This license shall be governed by and construed in accordance with applicable laws of India, without regard to conflict-of-law principles.
+
+10. Contact for Permission
+Any request for written permission to use, license, or otherwise deal in the Work must be directed to the Owner and is effective only if granted in an explicit written instrument signed by the Owner.
+
+Copyright © 2026 Ayush Ashutosh Gupta
+All Rights Reserved.
